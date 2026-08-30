@@ -1,0 +1,19 @@
+# Never commit complete game archives or backups.
+app.asar
+app.asar.original
+app.asar.backup-*
+*.asar
+
+# Release artifacts belong in GitHub Releases.
+*.zip
+
+# Installer temporary data and local logs.
+.localization-build-*/
+*.log
+debug.log
+
+# OS/editor files.
+Thumbs.db
+.DS_Store
+.idea/
+.vscode/

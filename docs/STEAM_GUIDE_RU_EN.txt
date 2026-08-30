@@ -1,0 +1,132 @@
+НАЗВАНИЕ / TITLE
+
+Русификатор / English Patch — わたしをそとにつれてって
+
+
+КРАТКОЕ ОПИСАНИЕ / SHORT DESCRIPTION
+
+RU: Полная неофициальная локализация игры: сценарий, интерфейс, изображения, телефон и поля ввода. Сохранены оригинальные кнопки, анимации и пиксельный стиль.
+
+EN: A complete unofficial localization of the story, UI, images, phone screens, and input fields, preserving the original buttons, animations, and pixel-art style.
+
+by “Migdal Bavel” project.
+
+
+ТЕКСТ РУКОВОДСТВА / GUIDE TEXT (STEAM BBCode)
+
+[center][h1]Русификатор / English Patch[/h1]
+[b]わたしをそとにつれてって[/b]
+
+[b]by “Migdal Bavel” project.[/b][/center]
+
+[quote]RU: Локализация проверена на Steam-сборке [b]24158896[/b], App ID [b]4879010[/b]. Дата выпуска: 30 августа 2026 года.
+
+EN: The localization was tested with Steam build [b]24158896[/b], App ID [b]4879010[/b]. Release date: August 30, 2026.[/quote]
+
+[h1]Скачать / Download[/h1]
+
+[b]Русификатор / Russian Patch — 446 МБ[/b]
+[url=ВСТАВЬТЕ_ССЫЛКУ_НА_RU_АРХИВ]Скачать Watashi_wo_Soto_ni_Tsuretette_RU_2026-08-30.zip[/url]
+
+[code]SHA-256: C6B90AC3CD1666DD1649DD45346F99F00CF0829DE271122CDFFFFF1279484E0E[/code]
+
+[b]English Patch — 444 MB[/b]
+[url=ВСТАВЬТЕ_ССЫЛКУ_НА_EN_АРХИВ]Download Watashi_wo_Soto_ni_Tsuretette_EN_2026-08-30.zip[/url]
+
+[code]SHA-256: D6B3B6E1564A6F81BCE97A9EDD2D27A448FEDBA07F83B4A8489B1B2795DEAFB2[/code]
+
+[h1]Русский[/h1]
+
+[h1]О локализации[/h1]
+
+Это полная неофициальная локализация [b]わたしをそとにつれてって[/b] на русский язык. Переведены сценарий, реплики, варианты выбора, меню, системные сообщения, поля ввода и текст, встроенный в изображения.
+
+При адаптации сохранены исходные кнопки и их состояния, переходы, анимации, тайминги и общий пиксельный стиль игры. Имена, роли персонажей и грамматический род сверены по контексту оригинала.
+
+[h1]Установка русификатора[/h1]
+
+[olist]
+[*] Полностью закройте игру.
+[*] Распакуйте RU-архив в любую отдельную папку.
+[*] Запустите [b]Установить русификатор.cmd[/b].
+[*] Установщик автоматически найдёт игру в библиотеках Steam. Нажмите Enter, чтобы подтвердить найденный путь, либо введите другой путь к папке игры.
+[*] Дождитесь завершения пересборки и проверки [b]app.asar[/b]. Обычно это занимает несколько минут.
+[*] После сообщения об успешной проверке запустите игру через Steam.
+[/olist]
+
+Если автоматический поиск не сработал, откройте папку игры через Steam: [b]Библиотека → свойства игры → Установленные файлы → Обзор[/b]. Указывать нужно корневую папку [b]わたしをそとにつれてって[/b], а не папку [i]resources[/i].
+
+Пакет содержит только изменённые файлы. Для сборки используется Electron, уже входящий в состав игры; дополнительные программы и интернет не требуются. На диске с игрой временно потребуется около 1,5 ГБ свободного места.
+
+[h1]Что переведено[/h1]
+
+[list]
+[*] весь основной сценарий и развилки;
+[*] меню, кнопки, варианты выбора и системные сообщения;
+[*] поля ввода и проверка ответов;
+[*] графические экраны телефона и финальная анкета;
+[*] вступительные анимации и встроенный в изображения текст;
+[*] шрифты с сохранением пиксельной стилистики.
+[/list]
+
+[h1]Возврат японской версии[/h1]
+
+Установщик сохраняет чистый оригинал как [b]resources\app.asar.original[/b] и перед каждой заменой создаёт дополнительную резервную копию. Для возврата запустите [b]Восстановить оригинал.cmd[/b].
+
+[h1]Обновления и проблемы[/h1]
+
+После обновления Steam может вернуть оригинальные японские файлы. Дождитесь завершения обновления и установите локализацию повторно.
+
+Если установщик сообщает, что не найдена чистая оригинальная [b]app.asar[/b], выполните в Steam [b]Проверку целостности файлов[/b], затем повторите установку. При выходе несовместимой сборки потребуется обновлённая версия локализации.
+
+Если заметили пропущенный текст или ошибку перевода, приложите скриншот и кратко укажите момент игры.
+
+[h1]English[/h1]
+
+[h1]About the localization[/h1]
+
+This is a complete unofficial English localization of [b]わたしをそとにつれてって[/b]. It translates the story, dialogue, choices, menus, system messages, input fields, and text baked into images.
+
+The adaptation preserves the original buttons and their states, transitions, animations, timing, screen geometry, and overall pixel-art presentation. Character names, roles, and grammatical gender were checked against the context of the Japanese original.
+
+[h1]Installing the English Patch[/h1]
+
+[olist]
+[*] Close the game completely.
+[*] Extract the EN archive to a separate folder.
+[*] Run [b]Install English patch.cmd[/b].
+[*] The installer locates the game in your Steam libraries automatically. Press Enter to accept the detected folder, or enter another game-folder path.
+[*] Wait for [b]app.asar[/b] rebuilding and verification to finish. This usually takes a few minutes.
+[*] Launch the game from Steam after the installer reports successful verification.
+[/olist]
+
+If automatic detection fails, open the game folder through Steam: [b]Library → game properties → Installed Files → Browse[/b]. Select the root [b]わたしをそとにつれてって[/b] folder, not its [i]resources[/i] subfolder.
+
+The download contains only modified files. It uses the Electron runtime already bundled with the game to rebuild the archive, so no additional software or internet connection is required. About 1.5 GB of temporary free space is required on the game drive.
+
+[h1]What is translated[/h1]
+
+[list]
+[*] the complete main story and its branches;
+[*] menus, buttons, choices, and system messages;
+[*] input fields and answer validation;
+[*] phone graphics and the final profile screens;
+[*] intro animations and text baked into images;
+[*] fonts matching the original pixel style.
+[/list]
+
+[h1]Restoring the Japanese version[/h1]
+
+The installer keeps a clean original as [b]resources\app.asar.original[/b] and creates an additional backup before every replacement. Run [b]Restore original.cmd[/b] to return to the Japanese version.
+
+[h1]Updates and troubleshooting[/h1]
+
+A Steam update may restore the original Japanese files. Let the update finish, then install the localization again.
+
+If the installer cannot find a clean original [b]app.asar[/b], use Steam's [b]Verify integrity of game files[/b] option and try again. A new incompatible game build will require an updated localization package.
+
+If you find untranslated text or a translation error, attach a screenshot and briefly identify the scene.
+
+[quote]RU: Это фанатский неофициальный проект. Для использования необходима установленная копия игры в Steam.
+
+EN: This is an unofficial fan project. An installed Steam copy of the game is required.[/quote]
