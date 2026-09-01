@@ -17,3 +17,12 @@ Thumbs.db
 .DS_Store
 .idea/
 .vscode/
+
+# Local development/source folders merged into this working directory.
+# They contain original game data and build artifacts and must never be pushed.
+/work/
+/game_original/
+/release_*/
+/Русификатор_RU/
+/English_Patch_EN/
+/README_RU.md

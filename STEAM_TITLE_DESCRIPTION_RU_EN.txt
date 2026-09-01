@@ -1,0 +1,16 @@
+НАЗВАНИЕ / TITLE
+
+Русификатор / English Patch — わたしをそとにつれてって
+
+
+ОПИСАНИЕ НА РУССКОМ / RUSSIAN DESCRIPTION
+
+Полная неофициальная локализация игры わたしをそとにつれてって на русский и английский языки. Переведены сценарий, интерфейс, изображения, телефон, варианты выбора и поля ввода. Сохранены оригинальные кнопки, анимации, тайминги и пиксельный стиль. Установщик автоматически находит игру в библиотеках Steam и сохраняет оригинальные файлы.
+
+
+ENGLISH DESCRIPTION / ОПИСАНИЕ НА АНГЛИЙСКОМ
+
+A complete unofficial Russian and English localization for わたしをそとにつれてって. The story, interface, images, phone screens, choices, and input fields are translated while preserving the original buttons, animations, timing, and pixel-art style. The installer detects the game across Steam libraries automatically and keeps a backup of the original files.
+
+
+by “Migdal Bavel” project.
