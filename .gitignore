@@ -26,3 +26,9 @@ Thumbs.db
 /Русификатор_RU/
 /English_Patch_EN/
 /README_RU.md
+
+# Local publishing materials; keep them on disk, not in the repository.
+/assets/
+/STEAM_GUIDE_RU_EN.txt
+/STEAM_TITLE_DESCRIPTION_RU_EN.txt
+/docs/AVATAR_PROMPTS.txt

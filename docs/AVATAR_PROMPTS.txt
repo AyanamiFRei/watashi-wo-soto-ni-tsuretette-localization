@@ -1,8 +1,0 @@
-RU AVATAR — built-in image generation, identity-preserve
-
-Create a polished 1024x1024 Steam/localization avatar from the supplied Shoko character artwork. Preserve the recognizable face, light icy-blue hair covering one eye, visible magenta eye, pink oversized jacket, and original visual-novel anime rendering. Use a dark navy-to-black atmospheric background with a muted crimson accent. Frame a close head-and-shoulders portrait that remains clear at small size. Add exactly “RU” in bold white pixel lettering inside a compact crimson badge at the lower-right. No other text, logos, watermark, or Japanese writing.
-
-
-EN AVATAR — built-in image editing, precise-object-edit
-
-Use the RU avatar as the exact edit target. Change only the lower-right badge text from “RU” to exactly “EN”, retaining the same white pixel lettering, crimson badge, position, outline, margins, character, crop, background, lighting, and colors. No other changes or text.

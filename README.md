@@ -1,10 +1,5 @@
 # わたしをそとにつれてって — RU / EN Localization
 
-<p align="center">
-  <img src="assets/Avatar_RU_1024.png" alt="Russian localization avatar" width="320">
-  <img src="assets/Avatar_EN_1024.png" alt="English localization avatar" width="320">
-</p>
-
 <p align="center"><strong>by “Migdal Bavel” project.</strong></p>
 
 Полная неофициальная русская и английская локализация визуальной новеллы **わたしをそとにつれてって**.
@@ -15,8 +10,6 @@ A complete unofficial Russian and English localization of the visual novel **わ
 - Проверенная сборка / Tested build: `24158896`
 - Платформа / Platform: Windows, Steam
 - [Последний релиз / Latest release](https://github.com/AyanamiFRei/watashi-wo-soto-ni-tsuretette-localization/releases/latest)
-- [Название и описание для Steam / Steam title and description](STEAM_TITLE_DESCRIPTION_RU_EN.txt)
-- [Полный текст Steam-руководства / Full Steam guide text](STEAM_GUIDE_RU_EN.txt)
 
 ---
 
@@ -80,10 +73,7 @@ Run `Restore original.cmd` to return to the Japanese version.
 
 - `Russian_Patch/` — файлы русификатора и установщик;
 - `English_Patch/` — English localization files and installer;
-- `assets/` — RU/EN project avatars;
-- `STEAM_TITLE_DESCRIPTION_RU_EN.txt` — готовые двуязычные название и описание для Steam;
-- `STEAM_GUIDE_RU_EN.txt` — полный двуязычный текст Steam-руководства в BBCode;
-- `docs/` — release notes and avatar-generation notes.
+- `docs/` — release notes.
 
 Large localized GIF animations are stored through Git LFS. Release ZIP files are attached to GitHub Releases rather than committed to the repository.
 
